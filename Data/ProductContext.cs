@@ -39,7 +39,7 @@ namespace CarvedRock.Admin.Data
                 Name = "Coastliner",
                 Price = 49.99M,
                 IsActive = true,
-                Description = "Easy in and out with this lightweight but rugged shoe with great ventilation to keep your feet breathing."
+                Description = "Easy in and out with this lightweight but rugged shoe with great ventilation to get you around shores, beaches, and boats.."
             });
             Products.Add(new Product
             {
@@ -47,7 +47,7 @@ namespace CarvedRock.Admin.Data
                 Name = "Woodsman",
                 Price = 64.99M,
                 IsActive = true,
-                Description = "All the insulation and support you need when wandering the rugged trails of the woods and back yard."
+                Description = "All the insulation and support you need when wandering the rugged trails of the woods and backcountry."
             });
             Products.Add(new Product
             {
